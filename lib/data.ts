@@ -29,9 +29,7 @@ export const personalInfo = {
 };
 
 
-// ======================================
-// SKILLS
-// ======================================
+
 
 export const skillGroups = [
   {
