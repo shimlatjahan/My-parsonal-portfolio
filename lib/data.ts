@@ -1,7 +1,4 @@
 
-// ======================================
-// PERSONAL INFORMATION
-// ======================================
 
 export const personalInfo = {
   name: "Shimlat Jahan Sonia",

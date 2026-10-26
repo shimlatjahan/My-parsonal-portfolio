@@ -6,9 +6,7 @@ import { personalInfo } from "@/lib/data";
 
 import "./globals.css";
 
-// ===================================
-// SEO METADATA
-// ===================================
+
 
 export const metadata: Metadata = {
   title: `${personalInfo.name} | ${personalInfo.title}`,

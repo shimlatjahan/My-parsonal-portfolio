@@ -23,7 +23,7 @@ export default function Navbar() {
         className="mx-auto flex h-19 max-w-7xl items-center justify-between px-5 sm:px-8 lg:px-12"
       >
 
-        {/* LOGO */}
+        
 
         <Link
           href="/#home"
@@ -34,7 +34,7 @@ export default function Navbar() {
           <span className="text-violet-400">.</span>
         </Link>
 
-        {/* DESKTOP LINKS */}
+       
 
         <div className="hidden items-center gap-7 md:flex">
 

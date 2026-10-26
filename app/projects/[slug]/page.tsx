@@ -12,7 +12,7 @@ import {
 } from "@/lib/data";
 
 
-// DYNAMIC ROUTES
+
 
 export function generateStaticParams() {
   return projects.map((project) => ({
@@ -21,7 +21,7 @@ export function generateStaticParams() {
 }
 
 
-// SEO
+
 
 export async function generateMetadata({
   params,
