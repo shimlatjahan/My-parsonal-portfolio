@@ -18,7 +18,7 @@ export const personalInfo = {
   phone: "01319132184",
   whatsapp: "",
 
-  // Social Media
+  
   github: "https://github.com/shimlatjahan",
   linkedin: "",
   facebook: "",
