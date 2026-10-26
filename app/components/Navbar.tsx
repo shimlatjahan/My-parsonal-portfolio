@@ -50,8 +50,7 @@ export default function Navbar() {
 
         </div>
 
-        {/* CONTACT BUTTON */}
-
+       
         <Link
           href="/#contact"
           className="hidden rounded-xl bg-violet-600 px-5 py-2.5 text-sm font-semibold text-white shadow-lg shadow-violet-950/40 transition hover:bg-violet-500 lg:inline-flex"

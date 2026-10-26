@@ -7,10 +7,10 @@ export const personalInfo = {
   department: "Public Administration",
   location: "Barishal, Bangladesh",
 
-  // Profile Photo
+  
   profileImage: "/Sonia2.jpeg",
 
-  // Resume
+ 
   resume: "/resume.pdf",
 
   // Contact
