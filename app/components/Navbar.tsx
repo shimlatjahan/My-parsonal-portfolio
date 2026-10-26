@@ -59,8 +59,7 @@ export default function Navbar() {
           <span className="ml-2">↗</span>
         </Link>
 
-        {/* MOBILE MENU BUTTON */}
-
+        
         <button
           type="button"
           aria-label={open ? "Close menu" : "Open menu"}
