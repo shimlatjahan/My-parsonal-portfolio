@@ -8,7 +8,7 @@ export const personalInfo = {
   location: "Barishal, Bangladesh",
 
   
-  profileImage: "/Sonia2.jpeg",
+  profileImage: "/shimlat.jpeg",
 
  
   resume: "/resume.pdf",
@@ -20,7 +20,7 @@ export const personalInfo = {
 
   
   github: "https://github.com/shimlatjahan",
-  linkedin: "",
+  linkedin: "https://www.linkedin.com/in/shimlat-jahan-sonia/",
   facebook: "",
   twitter: "",
 
